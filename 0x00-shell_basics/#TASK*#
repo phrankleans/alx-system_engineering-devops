@@ -1,0 +1,30 @@
+
+
+*Shell permission task*
+
+Task 0
+#!/bin/bash
+su betty
+
+task 1
+#!/bin/bash
+whoami
+chmod u+x (filename)
+
+task 2
+#!/bin/bash
+groups
+chmod u+x (filename)
+
+task 3
+#!/bin/bash
+chown betty hello
+chmod u+x (filename)
+
+task 4
+#!/bin/bash
+touch hello
+chmod u+x (filename)
+
+task 5
+#!/bin/bash

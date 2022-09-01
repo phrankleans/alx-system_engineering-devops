@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami chmod u+x (filename)
+chmod u+x (filename)
